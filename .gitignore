@@ -2,3 +2,4 @@
 spotify_creds.txt
 *pkl
 .env
+kmean_clustered_subset.parquet
